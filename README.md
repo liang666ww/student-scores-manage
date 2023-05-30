@@ -1,2 +1,2 @@
-# student-scores-manage
-HNUST创业实训学生成绩管理系统后端
+# webchat-backend
+HNUST创业实训聊天室系统后端
